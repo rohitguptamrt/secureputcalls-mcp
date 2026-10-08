@@ -3,7 +3,7 @@
   "name": "com.secureputcalls/mcp",
   "title": "SecurePutCalls",
   "description": "Wheel strategy research: put/call candidates, symbol risk, position analysis and rolls. Read-only.",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "websiteUrl": "https://secureputcalls.com/claude-connector",
   "repository": {
     "url": "https://github.com/rohitguptamrt/secureputcalls-mcp",
