@@ -66,3 +66,9 @@ Your client opens a browser window to sign in the first time.
 - Docs: https://secureputcalls.com/developer-docs
 - Support: pritima@secureputcalls.com
 - Privacy: https://secureputcalls.com/privacy
+
+## License
+
+The files in this repository are MIT licensed (see [LICENSE](LICENSE)). The SecurePutCalls
+name and logo are trademarks of SecurePutCalls LLC and aren't covered by that license; use of
+the hosted service is governed by the [Terms of Service](https://secureputcalls.com/terms).
